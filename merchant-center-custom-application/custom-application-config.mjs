@@ -12,7 +12,7 @@ const config = {
       initialProjectKey: 'ct-custom-app-demo',
     },
     production: {
-      applicationId: 'TODO',
+      applicationId: 'clu0w8i8f00105kdz9jvci6nk',
       url: 'https://your_app_hostname.com',
     },
   },
