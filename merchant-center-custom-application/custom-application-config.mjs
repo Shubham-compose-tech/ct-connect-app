@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clu0w8i8f00105kdz9jvci6nk',
-      url: 'https://your_app_hostname.com',
+      url: 'https://mc-app-d37b891b-ebcf-42df-967d-35c1f5906928.australia-southeast1.gcp.preview.commercetools.app',
     },
   },
   oAuthScopes: {
