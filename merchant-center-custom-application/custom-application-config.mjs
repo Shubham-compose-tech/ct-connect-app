@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'ct-custom-app-demo',
     },
     production: {
-      applicationId: 'clu0w8i8f00105kdz9jvci6nk',
-      url: 'https://mc-app-d37b891b-ebcf-42df-967d-35c1f5906928.australia-southeast1.gcp.preview.commercetools.app',
+      applicationId: 'clu2dej1z0004nia8g5xx6j0v',
+      url: 'https://mc-app-428dc36c-12fd-4b56-8441-11691f09f8fc.australia-southeast1.gcp.preview.commercetools.app',
     },
   },
   oAuthScopes: {
